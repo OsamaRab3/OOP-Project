@@ -13,4 +13,4 @@ Welcome to the Object-Oriented Programming (OOP) Learning Journey! This README.m
 7. **Innovating with OOP:** Explore new ways to apply OOP concepts and contribute to the OOP community.
 
 ## Conclusion
-The OOP learning journey is an exciting and rewarding experience. By following these steps and staying committed to your learning, you'll become a proficient OOP developer ready to tackle any programming challenge!
+The OOP learning journey is an exciting and rewarding experience. 
